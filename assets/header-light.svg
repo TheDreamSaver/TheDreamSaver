@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+  <title id="title">Ashish Jha</title>
+  <desc id="desc">From voice applications to identity and AI agents.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1" fill="#785986" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1000" height="310" rx="20" fill="#f6f2e9"/>
+  <rect width="1000" height="310" rx="20" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="102" font-size="72" font-weight="700" letter-spacing="-3" fill="#291b32">Ashish Jha</text>
+    <text x="950" y="87" text-anchor="end" font-size="24" fill="#67546d">ashishjha.ai</text>
+    <path d="M99 191 C200 151 263 151 365 191 M452 191 C553 151 616 151 718 191" fill="none" stroke="#cbb9d4" stroke-width="2"/>
+    <path d="m355 181 10 10-14 3m357-13 10 10-14 3" fill="none" stroke="#cbb9d4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#f6f2e9" stroke="#cbb9d4" stroke-width="2">
+      <circle cx="77" cy="191" r="28"/><circle cx="409" cy="191" r="28"/><circle cx="763" cy="191" r="28"/>
+    </g>
+    <g stroke="#73518e" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M61 188v6m8-15v24m8-31v38m8-29v20m8-13v6"/>
+      <circle cx="404" cy="186" r="8"/><path d="m410 192 13 13m-5-5 4-4m-9-1 4-4"/>
+      <path d="M751 191h24m-12 0v-13m0 13v13"/>
+      <circle cx="748" cy="191" r="4" fill="#f6f2e9"/><circle cx="778" cy="191" r="4" fill="#f6f2e9"/><circle cx="763" cy="176" r="4" fill="#f6f2e9"/><circle cx="763" cy="206" r="4" fill="#f6f2e9"/>
+    </g>
+    <g fill="#291b32" font-size="36" font-weight="600" letter-spacing="-1">
+      <text x="48" y="268">Voice</text><text x="350" y="268">Identity</text><text x="697" y="268">AI agents</text>
+    </g>
+  </g>
+</svg>
