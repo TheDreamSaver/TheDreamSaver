@@ -14,6 +14,8 @@ Previously at Okta, working on identity and authorization. Before that, I founde
 
 | Project | What’s here |
 | --- | --- |
+| [SmartSpend](https://github.com/TheDreamSaver/fga-spend-guard) | An expense agent with server-side OpenFGA checks and approval rules. [Try the standalone browser demo](https://smartspend-thedreamsaver.vercel.app/). |
+| [FGA Docs Visualizer](https://github.com/TheDreamSaver/fga-docs-visualizer) | A local RAG demo that filters document excerpts with OpenFGA before they reach the model. |
 | [Auth0 + DynamoDB](https://github.com/TheDreamSaver/auth0-dynamoDB-connection-scripts) | Custom database connection scripts for using an existing DynamoDB user store with Auth0. |
 | [Alexa + Rocket.Chat](https://github.com/TheDreamSaver/alexa-rocketchat) | My GSoC contribution to Rocket.Chat’s Alexa integration. This is a fork of the shared project, from 2019. |
 | [Alexa Skill Builder training](https://github.com/TheDreamSaver/alexa-oreilly) | Code and exercises from the O’Reilly live training sessions I taught. |
